@@ -134,3 +134,40 @@ Mazer is created by <a href="https://saugi.me">Saugi</a>.
 ## Sponsors
 
 ![zuramai's sponsors](https://raw.githubusercontent.com/zuramai/static/main/sponsors.svg)
+
+
+---
+
+# Internship Task 3 – Dashboard Customization
+
+## Objective
+This repository is used to complete **Internship Task 3**.
+The goal of this task is to work with an existing admin dashboard template
+and customize it according to the given requirements.
+
+---
+
+## What I Did in Task 3
+- Successfully set up the Mazer dashboard locally using Vite
+- Understood the existing project structure
+- Customized dashboard cards (Followers / Statistics)
+- Replaced static values with dynamic values using JavaScript
+- Used JSON data and DOM manipulation
+- Verified output using `npm run dev`
+
+---
+
+## Technologies Used
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+- JavaScript  
+- Nunjucks  
+- Vite  
+
+---
+
+## How to Run (Task 3)
+```bash
+npm install --legacy-peer-deps --ignore-scripts
+npm run dev
